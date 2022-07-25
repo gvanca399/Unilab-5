@@ -233,7 +233,6 @@ body footer .footer-box .location input[type=text] {
     background-image: url('../assets/Vector\ \(2\).png');
     background-repeat: no-repeat;
     padding: 12px 0 10px 18px;
-    outline: none;
 }
 body footer .footer-box .location p{
     width: 235px;
